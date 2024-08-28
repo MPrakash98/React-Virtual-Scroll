@@ -34,7 +34,7 @@ Make sure you have Node.js installed. Then, run:
 
 ## File Structure
 
-- **src/components/MyVirtualizedTable.js**: The main React component that renders the virtualized table and search bar.
+- **src/components/VirtualScroll.js**: The main React component that renders the virtualized table and search bar.
 
 ## Customization
 
